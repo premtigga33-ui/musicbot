@@ -1,0 +1,3 @@
+pyrogram==2.0.106
+yt-dlp==2023.11.14
+tgcrypto==1.2.5
